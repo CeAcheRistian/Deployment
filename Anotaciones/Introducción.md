@@ -77,3 +77,12 @@ Para modificar los permisos hay dos opciones: la representación de número octa
 - 7 rwx
 
 Para modificar los permisos de un archivo se usa el comando: __chmod nnn #__, especificando los permisos para el autor,grupo,usuarios y el archivo.
+
+Un archivo __bash__ es un tipo de archivo que almacena comandos. Tiene por extención __.sh__. Se ejecuta con la llamada al interprete bash antes del archivo o con ./
+
+- __./archivo__: Para ejecutar un archivo se pone un punto y la ruta del archivo, si se está en el fichero solo se coloca el nombre del archivo.
+
+- __whoami__: regresa el usuario que está en ese momento en la consola.
+
+## Procesos
+
